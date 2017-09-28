@@ -2,4 +2,4 @@
 GitHub Learning Guide
 
 Parselmouth Pythonista in training.
-# ＞°）m～～～∈
+# ～＞°）mニニニニ＝～
