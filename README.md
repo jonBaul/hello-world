@@ -1,5 +1,6 @@
 # hello-world
-GitHub Learning Guide
+# GitHub Learning Guide
 
-Parselmouth Pythonista in training.
+print("Parselmouth Pythonista in training.")
+
 # ～＞°）mニニニニ＝～
